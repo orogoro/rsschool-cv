@@ -1,22 +1,18 @@
-![avatar](/rsschool-cv/images/photo_2022-06-24%2021.33.41.jpeg)
+![avatar](./images/photo_2022-06-24%2021.33.41.jpeg)
 
 # YURII DVORNICHENKO
 
 **FRONTEND DEVELOPER**
 
-================================================================
+---
 
 ## CONTACTS
 
 +380635300382
 
----
-
-## [MEGA_SE7EN@UKR.NET](MEGA_SE7EN@UKR.NET)
+[MEGA_SE7EN@UKR.NET](MEGA_SE7EN@UKR.NET)
 
 [GITHUB](https://github.com/orogoro) & [LINKEDIN](https://www.linkedin.com/in/yurii-dvornichenko-5948a1241/?trk=public-profile-join-page) & [TELEGRAM](https://t.me/Orogoro)
-
----
 
 KYIV, UKRAINE
 
@@ -51,7 +47,9 @@ I am a Front-End developer. I focus on HTML5, CSS3, JS, React. Development, prac
 - ENGLISH - INTERMEDIATE
 - POLISH - INTERMEDIATE
 
-================================================================
+---
+
+## Code example:
 
 ```javascript
 function arrayDiff(a, b) {
@@ -67,23 +65,23 @@ function arrayDiff(a, b) {
 
 ## PROJECT EXPERIENCE
 
-## **[Shops](https://orogoro.github.io/Shops/)** [Github Link](https://github.com/orogoro/Shops)
+**[Shops](https://orogoro.github.io/Shops/)** [Github Link](https://github.com/orogoro/Shops)
 
 Using pure React/Redux and React Router.
 
-## **[Agrobase](http://agrobase.llill.xyz/)** [Github Link](https://github.com/orogoro/agrobaseReact)
+**[Agrobase](http://agrobase.llill.xyz/)** [Github Link](https://github.com/orogoro/agrobaseReact)
 
 Using pure React/Redux, React Router, Axios and Adaptive layout.
 
-## **[HELLEN](https://roowdy.github.io/lucky-friday/)** [Github Link](https://github.com/roowdy/lucky-friday)
+**[HELLEN](https://roowdy.github.io/lucky-friday/)** [Github Link](https://github.com/roowdy/lucky-friday)
 
 Hellen company site. Using Html, Sass, Js, Parcel.
 
-## **[Filmoteka](https://eduardsergienko.github.io/project_group_8_Filmoteka/)** [Github Link](https://github.com/EduardSergienko/project_group_8_Filmoteka.git)
+**[Filmoteka](https://eduardsergienko.github.io/project_group_8_Filmoteka/)** [Github Link](https://github.com/EduardSergienko/project_group_8_Filmoteka.git)
 
 Using pure JS, npm-packages and SCSS
 
-## **[Petly](https://find-your-awesome-petly.netlify.app/)** [Github Link](https://github.com/EduardSergienko/project_group_5_petly)
+**[Petly](https://find-your-awesome-petly.netlify.app/)** [Github Link](https://github.com/EduardSergienko/project_group_5_petly)
 
 Using pure React/Redux, React Router, Axios, Adaptive layout, SCSS, Node.js/Express, MongoDB, SendGrid.
 
@@ -101,7 +99,7 @@ Responsibilities:
 
 2022 - 2022
 
-## **Media buyer in an advertising company KPI**
+**Media buyer in an advertising company KPI**
 
 2020 - 2022
 

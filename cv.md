@@ -2,7 +2,7 @@
 
 # YURII DVORNICHENKO
 
-# **FRONTEND DEVELOPER**
+**FRONTEND DEVELOPER**
 
 ================================================================
 
@@ -44,6 +44,20 @@ I am a Front-End developer. I focus on HTML5, CSS3, JS, React. Development, prac
 - ENGLISH - INTERMEDIATE
 - POLISH - INTERMEDIATE
 
+================================================================
+
+```javascript
+function arrayDiff(a, b) {
+  if (a.length === 0) {
+    return [];
+  }
+
+  return a
+    .filter((i) => !b.includes(i))
+    .concat(b.filter((i) => !a.includes(i)));
+}
+```
+
 ## PROJECT EXPERIENCE
 
 **[Shops](https://orogoro.github.io/Shops/)** [Github Link](https://github.com/orogoro/Shops)
@@ -80,6 +94,16 @@ Responsibilities:
 - Created creatives.
 - Created landings.
 - Created telegram bots.
+
+## EDUCATION
+
+**Akademia Ekonomiczno-Humanistyczna w Warszawie**
+Magister | Marketing management
+2021
+
+**Kyiv National University of Trade and Economics (KNTEU)**
+Bachelor | Hotel and restaurant business
+2021
 
 ## ADDITIONAL EDUCATION
 

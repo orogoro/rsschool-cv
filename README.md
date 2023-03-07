@@ -1,1 +1,1 @@
-# rsschool-cv
+https://orogoro.github.io/rsschool-cv/
